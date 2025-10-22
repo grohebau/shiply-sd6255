@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Sophiestraße 20",
+      "postal_code": "66578",
+      "city": "Schiffweiler-Heiligenwald",
+      "country": "Deutschland",
+      "lat": "49.35509275180171",
+      "lng": "7.10423853921024"
     }
   }
 }
