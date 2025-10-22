@@ -1,0 +1,47 @@
+{
+  "S69316": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Jürgen Knapp, Sophiestraße 20, 66578 Schiffweiler-Heiligenwald, Deutschland",
+    "price": "11.000 €",
+    "description": "Hersteller: Horex<br>Typ: SB 35<br>Fahrgestelnummer: JFE1M18571049<br>Erstzulassung: 11/1949<br>KM laut Vorbesitzer: 58.575 km<br>Leistung: 15 kW (20 PS)<br>Hubraum: 350 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jürgen Knapp<br>Sophiestraße 20<br>66578 Schiffweiler-Heiligenwald<br>Deutschland<br>Telefon: +49 163 796 22 03",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "22-10-2025",
+    "deliveryDate": "28-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
