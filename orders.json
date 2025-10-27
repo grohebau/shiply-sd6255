@@ -1,6 +1,6 @@
 {
   "S69316": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Jürgen Knapp, Sophiestraße 20, 66578 Schiffweiler-Heiligenwald, Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "22-10-2025",
     "deliveryDate": "28-10-2025, 11:30",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Am Leineufer 52",
+      "postal_code": "30419",
+      "city": "Hannover",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
